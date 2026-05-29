@@ -29,14 +29,14 @@ Segmented by: device, channel, country, continent
 | Test 3 | 0 out of 4  | Reject |
 | Test 4 | 2 out of 4  | Requires further analysis |
 
-**Test 1** — strongest positive results; all segments show 
+**Test 1** - strongest positive results; all segments show 
 significant improvement in 3 key metrics. Ready for rollout.
 
-**Tests 2 & 3** — no statistically significant changes detected. 
+**Tests 2 & 3** - no statistically significant changes detected. 
 Hypotheses not confirmed; changes not recommended for implementation.
 
-**Test 4** — mixed results. Two metrics improved significantly, 
-but weaker performance in remaining metrics requires further 
+**Test 4** - mixed results. Two metrics improved significantly, 
+But weaker performance in the remaining metrics requires further 
 investigation before a decision can be made.
 
 ## Recommendations
