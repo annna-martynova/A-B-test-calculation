@@ -7,7 +7,7 @@
 Automated A/B testing analysis across multiple metrics and segments \
 using Python, with results visualized in Tableau Public.\
 Z-test of proportions applied at significance level α = 0.05 \
-for control vs. test group comparisons. \
+for control vs. test group comparisons. 
 
 ## Tools
 SQL, Python (SciPy, Pandas), Tableau Public
